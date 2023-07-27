@@ -1,0 +1,9 @@
+Mhleli,Sibisi,20,KZN,22376123,65
+Kgomotso,Ngcobo,25,GP,20224576,76
+Thabani,Ngwenya,24,WP,22136875,75
+Nandi,Khumalo,21,KZN,22285639,39
+Thunjana,kaMahlase,23,KZN,22213214,14
+Clicks,Mavern,30,LP,13123122,12
+Mahlase,Bhovungane,21,WP,13231412,12
+Phindile,Mtungwa,21,KZN,13214312,12
+Sqalo,Mshana,12,WP,34234223,55
